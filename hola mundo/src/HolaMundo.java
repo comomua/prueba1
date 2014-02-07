@@ -7,6 +7,7 @@ public class HolaMundo {
 		// TODO Auto-generated method stub
 		System.out.println("adios");
 		int j;
+		System.out.println("caquita pa ti");
 	}
 
 }
